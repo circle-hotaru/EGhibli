@@ -1,0 +1,6 @@
+[submodule "EGhibli-Client"]
+	path = EGhibli-Client
+	url = https://github.com/circle-hotaru/EGhibli-Client
+[submodule "EGhibli-Server"]
+	path = EGhibli-Server
+	url = https://github.com/circle-hotaru/EGhibli-Server
